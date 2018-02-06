@@ -2,7 +2,7 @@
 
 #r @"../packages/FParsec.1.0.2/lib/portable-net45+netcore45+wpa81+wp8/FParsecCS.dll"
 #r @"../packages/FParsec.1.0.2/lib/portable-net45+netcore45+wpa81+wp8/FParsec.dll"
-#r @"../FParsec-Pipes/bin/Debug/netstandard2.0/FParsec-Pipes.dll"
+#r @"../FParsec-Pipes/bin/Debug/netstandard1.6/FParsec-Pipes.dll"
 #nowarn "193"
 open System
 open FParsec
